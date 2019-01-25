@@ -1,5 +1,6 @@
 # python-ascii-animation
-A simplie ASCII animation in your terminal using python Linux
+A simple ASCII animation in your Linux terminal using python.
+Based on the code of "nupsco"
 
 ### Who to use :
 
