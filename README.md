@@ -1,8 +1,8 @@
-# python-ascii-animation
+# python-ascii-animation:
 A simple ASCII animation in your Linux terminal using python.
 Based on the code of "nupsco"
 
-### Who to use :
+### Who to use:
 
 ```git
 git clone https://github.com/Otaku17/python-ascii-animation
