@@ -10,3 +10,4 @@ for i in range(1):
     for frame in frames:
         print("".join(frame))
         time.sleep(0.5)
+        os.system('cls' if os.name == 'nt' else 'clear')
