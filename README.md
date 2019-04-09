@@ -1,5 +1,5 @@
 # python-ascii-animation:
-A simple ASCII animation in your Linux terminal using python.
+A simple ASCII animation in your Linux & Windows terminal using python.
 Based on the code of "nupsco"
 
 ### Who to use:
