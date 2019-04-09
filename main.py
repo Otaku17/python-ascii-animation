@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import os , time
 files = ['data/ascii1.txt', 'data/ascii2.txt', 'data/ascii3.txt', 'data/ascii4.txt', 'data/ascii5.txt', 'data/ascii6.txt', 'data/ascii7.txt', 'data/ascii8.txt', 'data/ascii9.txt', 'data/ascii10.txt']
 frames = []
